@@ -120,7 +120,7 @@ export default function StartupDataTable() {
   return (
     <div className="container mx-auto py-10 px-4">
       <div className="flex justify-between items-center mb-8">
-        <h1 className="text-4xl font-bold">Funded Startups from GPT's Launch Year 2022</h1>
+        <h1 className="text-4xl font-bold">Funded Startups from 2022: Insights, Trends, and Analytics</h1>
         <Button variant="outline" size="icon" onClick={() => setTheme(theme === "light" ? "dark" : "light")}>
           {theme === "light" ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
         </Button>
