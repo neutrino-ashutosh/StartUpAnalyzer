@@ -292,6 +292,22 @@ export default function StartupDataTable() {
           </Button>
         </div>
       </div>
+      <footer className="mt-8 py-4 border-t">
+        <div className="flex flex-col sm:flex-row justify-center items-center gap-4 text-sm text-muted-foreground">
+          <a href="mailto:neutrino.ashutosh@gmail.com" className="hover:text-primary transition-colors">
+            neutrino.ashutosh@gmail.com
+          </a>
+          <span className="hidden sm:inline">•</span>
+          <a
+            href="https://www.linkedin.com/in/neutrino-ashutosh/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-primary transition-colors"
+          >
+            LinkedIn Profile
+          </a>
+        </div>
+      </footer>
     </div>
   )
 }
