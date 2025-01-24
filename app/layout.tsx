@@ -1,6 +1,9 @@
 import { ThemeProvider } from "@/components/theme-provider"
 import { Analytics } from "@vercel/analytics/react"
+import { Inter } from "next/font/google"
 import Script from "next/script"
+
+const inter = Inter({ subsets: ["latin"] })
 
 export default function RootLayout({
   children,
@@ -10,7 +13,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head />
-      <body>
+      <body className={inter.className}>
         {/* Google Tag Manager Script */}
         <Script
           strategy="afterInteractive"
@@ -27,7 +30,7 @@ export default function RootLayout({
             gtag('config', 'G-E8XFLG4GKQ');
           `}
         </Script>
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           {children}
         </ThemeProvider>
       </body>
