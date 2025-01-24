@@ -1,0 +1,3378 @@
+[
+  {
+    "Company": "Serentica Renewables",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.45 Bn+",
+    "Headquarters": "Gurugram",
+    "Founders": "N/A",
+    "Country": "India"
+  },
+  {
+    "Company": "Neso Brands",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$100.00 Mn+",
+    "Headquarters": "Singapore",
+    "Founders": "Bjorn Bergstrom; Peyush Bansal",
+    "Country": "Singapore"
+  },
+  {
+    "Company": "Ola Krutrim",
+    "Sector": "AI",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$74.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Bhavish Aggarwal",
+    "Country": "India"
+  },
+  {
+    "Company": "Avail",
+    "Sector": "Web3",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$70.00 Mn+",
+    "Headquarters": "Dubai",
+    "Founders": "Anurag Arjun; Prabal Banerjee",
+    "Country": "United Arab Emirates"
+  },
+  {
+    "Company": "Agilitas Sports",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$64.01 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Abhishek Ganguly",
+    "Country": "India"
+  },
+  {
+    "Company": "Vridhi Home Finance",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$54.92 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Sunil Mehta",
+    "Country": "India"
+  },
+  {
+    "Company": "Neysa",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$49.90 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Anindya Das; Sharad Sanghi",
+    "Country": "India"
+  },
+  {
+    "Company": "Virgio",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$44.18 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Amar Nagaram",
+    "Country": "India"
+  },
+  {
+    "Company": "Matrix Gas & Renewables",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$42.26 Mn+",
+    "Headquarters": "Ahmedabad",
+    "Founders": "Anmol Singh Jaggi",
+    "Country": "India"
+  },
+  {
+    "Company": "Sarvam AI",
+    "Sector": "AI",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$41.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Pratyush Kumar; Vivek Raghavan",
+    "Country": "India"
+  },
+  {
+    "Company": "Mstack",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$40.00 Mn+",
+    "Headquarters": "Houston",
+    "Founders": "Shreyans Chopra",
+    "Country": "United States"
+  },
+  {
+    "Company": "Graas",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$40.00 Mn+",
+    "Headquarters": "Singapore",
+    "Founders": "Prem Bhatia; Ashwin Puri",
+    "Country": "Singapore"
+  },
+  {
+    "Company": "Bee Flights",
+    "Sector": "Travel Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$37.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Arjun Das",
+    "Country": "India"
+  },
+  {
+    "Company": "IGREL Renewables",
+    "Sector": "Clean Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$35.82 Mn+",
+    "Headquarters": "Vadodara",
+    "Founders": "Devansh Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "International Battery Company",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$35.00 Mn+",
+    "Headquarters": "Milpitas",
+    "Founders": "Priyadarshi P",
+    "Country": "United States"
+  },
+  {
+    "Company": "Scapia",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$31.82 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Anil Goteti",
+    "Country": "India"
+  },
+  {
+    "Company": "UnifyApps",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$31.00 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Abhinav Singi; Abhishek Khurana; Kavish Manubolu; Pavitar Singh; Rachit Mittal; Rahul Anishetty; Shivam Satrawal; Sumeet Nandal",
+    "Country": "United States"
+  },
+  {
+    "Company": "Scrut Automation",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$29.53 Mn+",
+    "Headquarters": "Palo Alto",
+    "Founders": "Ayush Choudhary; Jayesh Gadewar; Kush Kaushik",
+    "Country": "United States"
+  },
+  {
+    "Company": "Kratos Studios",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$29.37 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Manish Agarwal; Ishank Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "Univest",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$27.97 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Avneet Dhamija; Pranit Arora; Vikash Agrawal",
+    "Country": "India"
+  },
+  {
+    "Company": "Nurix AI",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$27.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Mukesh Bansal",
+    "Country": "India"
+  },
+  {
+    "Company": "Zinc",
+    "Sector": "Fintech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$25.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Prashanth Ranganathan",
+    "Country": "India"
+  },
+  {
+    "Company": "Zamp",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$25.00 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Amit Jain",
+    "Country": "United States"
+  },
+  {
+    "Company": "Stable Money",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$24.76 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Harish Reddy; Saurabh Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "Centricity",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$24.00 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "N/A",
+    "Country": "India"
+  },
+  {
+    "Company": "EKA Mobility",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$23.94 Mn+",
+    "Headquarters": "Pune",
+    "Founders": "Sudhir Mehta",
+    "Country": "India"
+  },
+  {
+    "Company": "Shardeum",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$23.57 Mn+",
+    "Headquarters": "Zug",
+    "Founders": "Nischal Shetty; Omar Syed",
+    "Country": "Switzerland"
+  },
+  {
+    "Company": "Newme",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$23.41 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Himanshu Chaudhary; Shivam Tripathi; Sumit Jasoria; Vinod Naik",
+    "Country": "India"
+  },
+  {
+    "Company": "Uniqus Consultech",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$22.50 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Jamil Khatri; Sandip Khetan",
+    "Country": "India"
+  },
+  {
+    "Company": "Zyod",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$21.50 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Ankit Jaipuria; Ritesh Khandelwal",
+    "Country": "India"
+  },
+  {
+    "Company": "Mayhem Studios",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$20.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ojas Vipat",
+    "Country": "India"
+  },
+  {
+    "Company": "Primus Senior Living",
+    "Sector": "Health Tech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$20.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Adarsh Narahari",
+    "Country": "India"
+  },
+  {
+    "Company": "Kiwi",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$18.96 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Anup Kumar Agrawal; Mohit Bedi; Siddharth Mehta",
+    "Country": "India"
+  },
+  {
+    "Company": "Zype",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$17.72 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Yogi Sadana; Ajay Relan",
+    "Country": "India"
+  },
+  {
+    "Company": "Acefour Accessories",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$17.50 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Sudip Ghose; Arnob Kumar Mondal; Uday Sodhi",
+    "Country": "India"
+  },
+  {
+    "Company": "Brine Fi",
+    "Sector": "Fintech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$16.50 Mn+",
+    "Headquarters": "Dubai",
+    "Founders": "Bhavesh Praveen; Ritumbhara Bhatnagar; Shaaran Lakshminarayanan",
+    "Country": "United Arab Emirates"
+  },
+  {
+    "Company": "ShopDeck",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$16.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Anubhav Singh; Harmin Shah; Rishabh Verma",
+    "Country": "India"
+  },
+  {
+    "Company": "CheQ Digital",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$14.20 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Aditya Soni; Vished Banger",
+    "Country": "India"
+  },
+  {
+    "Company": "Atomicwork",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$14.00 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Kiran Darisi; Parsuram Vijayasankar; Vijay Rayapati",
+    "Country": "United States"
+  },
+  {
+    "Company": "Simplismart",
+    "Sector": "Deeptech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$14.00 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Amritanshu Jain",
+    "Country": "United States"
+  },
+  {
+    "Company": "Varaha",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$12.70 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Madhur Jain; Ankita Grag; Vishal Kuchanur; Anil Kumar Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "Urja Mobility",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$12.00 Mn+",
+    "Headquarters": "Faridabad",
+    "Founders": "Pankaj Chopra",
+    "Country": "India"
+  },
+  {
+    "Company": "oorja.energy",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$11.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Vineet Dravid; Prashant Kumar Srivastava; Prajakta Vaidya Sabnis",
+    "Country": "India"
+  },
+  {
+    "Company": "Namma Yatri",
+    "Sector": "Travel Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$11.01 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Magizhan Selvan; Shan M S",
+    "Country": "India"
+  },
+  {
+    "Company": "Emversity",
+    "Sector": "Edtech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$10.95 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Vivek Sinha",
+    "Country": "India"
+  },
+  {
+    "Company": "Landeed",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$10.80 Mn+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Jonathan Richards; Sanjay Mandava; ZJ Lin",
+    "Country": "India"
+  },
+  {
+    "Company": "Scimplifi",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$10.72 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Sachin Santhosh; Salil Srivastava",
+    "Country": "India"
+  },
+  {
+    "Company": "Wishlink",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$10.00 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Chandan Yadav; Divyansh Ameta; Shaurya Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "Equal Identity",
+    "Sector": "Deeptech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$10.00 Mn+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Keshav Reddy; Rajeev Ranjan",
+    "Country": "India"
+  },
+  {
+    "Company": "Gabit",
+    "Sector": "Health Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$9.50 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Gaurav Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "Accacia",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$9.00 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Annu Talreja; Jagmohan Gaarg; Piyush Chitkara; Sumeet Popli",
+    "Country": "India"
+  },
+  {
+    "Company": "FirstClub",
+    "Sector": "Consumer Services",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$8.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ayyappan R",
+    "Country": "India"
+  },
+  {
+    "Company": "Elivaas",
+    "Sector": "Travel Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$7.50 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Karan Miglani; Ritwik Khare",
+    "Country": "India"
+  },
+  {
+    "Company": "EMO Energy",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$7.40 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Sheetanshu Tyagi; Rahul Patel",
+    "Country": "India"
+  },
+  {
+    "Company": "STAN",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$7.39 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Nauman Mulla; Gyanesh Kumar; Parth Chadha; Rahul Singh",
+    "Country": "India"
+  },
+  {
+    "Company": "NAKAD",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$7.00 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Ujwal Kalra; Avinash Uttav; Sambhav Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "The Good Bug",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$7.00 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Keshav Biyani; Prabhu Karthikeyan Veluswamy",
+    "Country": "India"
+  },
+  {
+    "Company": "GenWise",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$7.00 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Geetanshu Singla; Nehul Malhotra; Rajat Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "XDLINX Space Labs",
+    "Sector": "Deeptech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$7.00 Mn+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Rupesh Gandupalli; Karthik Govindhasamy",
+    "Country": "India"
+  },
+  {
+    "Company": "PierSight Space",
+    "Sector": "Deeptech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$6.60 Mn+",
+    "Headquarters": "Ahmedabad",
+    "Founders": "Gaurav Seth; Vinit Bansal",
+    "Country": "India"
+  },
+  {
+    "Company": "Vegapay",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$6.60 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Gaurav Mittal; Abhinav Garg; Himanshu Agrawal; Puneet Sharma",
+    "Country": "India"
+  },
+  {
+    "Company": "Vaaree",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$6.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Garima Luthra; Pranav Arora; Varun Vohra",
+    "Country": "India"
+  },
+  {
+    "Company": "Two Point O Capital",
+    "Sector": "Fintech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$6.30 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Archit Mehrotra; Karan Bhutani; Manya Ranjan; Shashi",
+    "Country": "India"
+  },
+  {
+    "Company": "EdgeGrid",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$6.00 Mn+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Prasad Yerneni",
+    "Country": "India"
+  },
+  {
+    "Company": "AstroSure.ai",
+    "Sector": "Consumer Services",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$6.00 Mn+",
+    "Headquarters": "Chennai",
+    "Founders": "Vanya Mishra",
+    "Country": "India"
+  },
+  {
+    "Company": "GrowXCD",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$6.00 Mn+",
+    "Headquarters": "Chennai",
+    "Founders": "Arjun Muralidharan; Sathishkumar Vijayan",
+    "Country": "India"
+  },
+  {
+    "Company": "Peepul Tree",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$6.00 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Akshay Chavan; Anish Williams; Archna Nayar; Dilip Ernest Williams",
+    "Country": "India"
+  },
+  {
+    "Company": "Vance",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$5.80 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Parth Garg",
+    "Country": "India"
+  },
+  {
+    "Company": "Fibr",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$5.60 Mn+",
+    "Headquarters": "Dover",
+    "Founders": "Ankur Goyal; Pritam Roy",
+    "Country": "United States"
+  },
+  {
+    "Company": "abCoffee",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$5.56 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Abhijeet Anand",
+    "Country": "India"
+  },
+  {
+    "Company": "Stackr Labs",
+    "Sector": "Deeptech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$5.50 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Kautak Kundan",
+    "Country": "India"
+  },
+  {
+    "Company": "FanTiger",
+    "Sector": "Web3",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$5.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Prashan Agarwal",
+    "Country": "India"
+  },
+  {
+    "Company": "QuID Cash",
+    "Sector": "Fintech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$5.10 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Subhash Gupta; Uttam Tiwari; Vikram Ag",
+    "Country": "India"
+  },
+  {
+    "Company": "Comet",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$5.07 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Dishant Daryani; Utkarsh Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "DAOLens",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$5.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Vikram Aditya; Apoorv Nandan",
+    "Country": "India"
+  },
+  {
+    "Company": "Skydo",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$5.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Movin Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "Advance Mobility",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$5.00 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Mohit Prakash Jalan",
+    "Country": "India"
+  },
+  {
+    "Company": "TransBnk",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$5.00 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Vaibhav Tambe; Lavin Kotian; Pulak Jain; Sachin Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "ChattyBao",
+    "Sector": "Consumer Services",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$5.00 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Kumar Aditya; Varun Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "Kombai",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$4.50 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Dipanjan Dey; Abhijit Bhole",
+    "Country": "United States"
+  },
+  {
+    "Company": "Covvalent",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$4.30 Mn+",
+    "Headquarters": "Lewes",
+    "Founders": "Arush Dhawan; Sandeep Singh",
+    "Country": "United States"
+  },
+  {
+    "Company": "Billion Hearts",
+    "Sector": "Consumer Internet",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$4.25 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Mayank Bidawatka",
+    "Country": "India"
+  },
+  {
+    "Company": "Mesa School of Business",
+    "Sector": "Edtech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$4.14 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Varun Limaye",
+    "Country": "India"
+  },
+  {
+    "Company": "C2i Semiconductors",
+    "Sector": "Deeptech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$4.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "N/A",
+    "Country": "India"
+  },
+  {
+    "Company": "Thesys",
+    "Sector": "Deeptech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$4.00 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Parikshit Deshmukh; Rabi Shanker Guha",
+    "Country": "United States"
+  },
+  {
+    "Company": "Sparkl Edventure",
+    "Sector": "Edtech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$4.00 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Aakash Chaudhary; Pawan Chauhan; Ritesh Hemrajani",
+    "Country": "India"
+  },
+  {
+    "Company": "Reveal HealthTech",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$4.00 Mn+",
+    "Headquarters": "New York",
+    "Founders": "Andrew Bravo; Salim Afshar; Sanchit Mullick",
+    "Country": "United States"
+  },
+  {
+    "Company": "Binocs",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$4.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Pankaj Garg",
+    "Country": "India"
+  },
+  {
+    "Company": "StepChange",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$4.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ankit Jain; Sidhant Pai",
+    "Country": "India"
+  },
+  {
+    "Company": "PYOR",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.99 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Krishna Hegde; Sarmad Nazki; Sharan Nair; Yadunandan Batchu",
+    "Country": "India"
+  },
+  {
+    "Company": "CoverSure",
+    "Sector": "Fintech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$3.97 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Harshit Jain; Mayank Mishra; Saurabh Vijayvergia",
+    "Country": "India"
+  },
+  {
+    "Company": "DPDZero",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.75 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ananth Shroff; Ranjith B R",
+    "Country": "India"
+  },
+  {
+    "Company": "Vetic",
+    "Sector": "Health Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.69 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Gaurav Ajmera",
+    "Country": "India"
+  },
+  {
+    "Company": "Popclub",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.66 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Preeta Sukhtankar",
+    "Country": "India"
+  },
+  {
+    "Company": "Giga ML",
+    "Sector": "AI",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$3.60 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Varun Vummadi; Esha Manideep",
+    "Country": "United States"
+  },
+  {
+    "Company": "RecommerceX",
+    "Sector": "Clean Tech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$3.60 Mn+",
+    "Headquarters": "Noida",
+    "Founders": "Ajay Gupta; Mohit Gulyani; Shobhit Goel",
+    "Country": "India"
+  },
+  {
+    "Company": "Maino.ai",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.59 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Abhijeet Kunwar; Rishabh Kumar; Vikas Keshri",
+    "Country": "India"
+  },
+  {
+    "Company": "Nysha Mobility",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.53 Mn+",
+    "Headquarters": "Nelamangala",
+    "Founders": "Siddharth Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "Better Opinions",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.50 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Samay Jain; Soumyajit Das",
+    "Country": "India"
+  },
+  {
+    "Company": "Wootz.work",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$3.50 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Karan Anand; Himanshu Uniyal",
+    "Country": "India"
+  },
+  {
+    "Company": "altM",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Apoorv Garg; Yugal Raj Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "Zenskar",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.50 Mn+",
+    "Headquarters": "New York",
+    "Founders": "Apurv Bansal; Rakshit Kumar; Saurabh Agrawal",
+    "Country": "United States"
+  },
+  {
+    "Company": "TradingLeagues",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Harsh Agarwal; Raghu Kumar",
+    "Country": "India"
+  },
+  {
+    "Company": "Gullak.Money",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Dilip Jain; Manthan Shah; Naimisha Rao",
+    "Country": "India"
+  },
+  {
+    "Company": "Taki",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.45 Mn+",
+    "Headquarters": "Singapore",
+    "Founders": "Kevin Chou; Sakina Arsiwala",
+    "Country": "Singapore"
+  },
+  {
+    "Company": "Zoplar",
+    "Sector": "Health Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.40 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Amit Sah; Umesh Sharma",
+    "Country": "India"
+  },
+  {
+    "Company": "Driffle",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.40 Mn+",
+    "Headquarters": "London",
+    "Founders": "Abhishek Kumar; Chetan Bhardwaj; Gaurav Kumar Jha; Mayank Chawla",
+    "Country": "United Kingdom"
+  },
+  {
+    "Company": "Boba Bhai",
+    "Sector": "Foodtech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$3.35 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Dhruv Kohli; Harsh Bhagat",
+    "Country": "India"
+  },
+  {
+    "Company": "Furnishka",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$3.25 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ganesh Pawar",
+    "Country": "India"
+  },
+  {
+    "Company": "Aukera",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$3.18 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Lisa Mukhedkar",
+    "Country": "India"
+  },
+  {
+    "Company": "Togai",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.10 Mn+",
+    "Headquarters": "Wilmington",
+    "Founders": "Abhishek Rajagopal; Aravind Sriraman; Tholkappiyan Velavan",
+    "Country": "United States"
+  },
+  {
+    "Company": "Truva",
+    "Sector": "Real Estate Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$3.00 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Ankit Gupta; Puneet Arora",
+    "Country": "India"
+  },
+  {
+    "Company": "Ambak",
+    "Sector": "Fintech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$3.00 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Raghuveer Malik; Rameshwar Gupta; Rashi Garg",
+    "Country": "India"
+  },
+  {
+    "Company": "Dozer",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.00 Mn+",
+    "Headquarters": "Singapore",
+    "Founders": "Matteo Pelati; Vivek Gudapuri",
+    "Country": "Singapore"
+  },
+  {
+    "Company": "Cirkla",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.00 Mn+",
+    "Headquarters": "Lewes",
+    "Founders": "Vaibhav Goel; Ankur Gupta; Kapil Bhardwaj",
+    "Country": "United States"
+  },
+  {
+    "Company": "Confido Health",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.00 Mn+",
+    "Headquarters": "New York",
+    "Founders": "Chetan Reddy; Anik Agrawal; Kunal Agrawal; Vichar Shroff",
+    "Country": "United States"
+  },
+  {
+    "Company": "General Autonomy",
+    "Sector": "Advanced Hardware & Technology",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$3.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Farid Ahsan; Bhanu Pratap Singh",
+    "Country": "India"
+  },
+  {
+    "Company": "BigEndian Semiconductor",
+    "Sector": "Deeptech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$3.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Renuka Prasad; Harpreet Wadhawan; Dinesh Annayya; Sunil Kumar",
+    "Country": "India"
+  },
+  {
+    "Company": "Athina AI",
+    "Sector": "Deeptech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.00 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Akshat Gupta; Himanshu Bamoria; Mohit Jandwani; Shiv Sakhuja",
+    "Country": "United States"
+  },
+  {
+    "Company": "Sustainiam",
+    "Sector": "Clean Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.95 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Sapna Nijhawan; Tech - Pranav Kumar Burnwal",
+    "Country": "India"
+  },
+  {
+    "Company": "Produze",
+    "Sector": "Agritech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.60 Mn+",
+    "Headquarters": "Dubai",
+    "Founders": "Emil Soman; Gaurav Agrawal; Rakesh Sasidharan",
+    "Country": "United Arab Emirates"
+  },
+  {
+    "Company": "Chupps",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.60 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Gaurav Agarwal; Yash Mukhi",
+    "Country": "India"
+  },
+  {
+    "Company": "Jeh Aerospace",
+    "Sector": "Deeptech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.53 Mn+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Vishal R. Sanghavi; Venkatesh Mudragalla",
+    "Country": "India"
+  },
+  {
+    "Company": "Absolute Brands",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.52 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Vishnu Prasad",
+    "Country": "India"
+  },
+  {
+    "Company": "Dantech",
+    "Sector": "Health Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.51 Mn+",
+    "Headquarters": "Chennai",
+    "Founders": "Dr Shiva Shankar",
+    "Country": "India"
+  },
+  {
+    "Company": "ShipGlobal",
+    "Sector": "Logistics",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.50 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Aayush Anand; Angad Arora; Vaibhav Kapur",
+    "Country": "India"
+  },
+  {
+    "Company": "CUR8",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.50 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Ajay Pal Singh Sethi; Hanit Awal",
+    "Country": "India"
+  },
+  {
+    "Company": "Figr",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Chirag Singla; Moksh Garg",
+    "Country": "India"
+  },
+  {
+    "Company": "Go Zero",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.50 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Ankit Kumar",
+    "Country": "India"
+  },
+  {
+    "Company": "Herby Angel",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.50 Mn+",
+    "Headquarters": "Noida",
+    "Founders": "Sherry Jairath",
+    "Country": "India"
+  },
+  {
+    "Company": "Juleo",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.50 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Chiranjeev Ghai; Varun Sud",
+    "Country": "India"
+  },
+  {
+    "Company": "Boundless Brands",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.50 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Nagendra Shukla",
+    "Country": "India"
+  },
+  {
+    "Company": "Pep",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Nav Agrawal; Swapnil Upadhyay",
+    "Country": "India"
+  },
+  {
+    "Company": "Giga Fun Studios",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.40 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Krishnendu Mukherjee; Rahul Daga; Rahul Shekhar",
+    "Country": "India"
+  },
+  {
+    "Company": "Fambo",
+    "Sector": "Agritech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.40 Mn+",
+    "Headquarters": "Greater Noida",
+    "Founders": "Akshay Tripathi; Sudarshan Satle",
+    "Country": "India"
+  },
+  {
+    "Company": "Induced AI",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.30 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Naman Ambavi",
+    "Country": "India"
+  },
+  {
+    "Company": "Swara Fincare",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.30 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Dev Verma; Mukund Madhav; Sumit Ranjan",
+    "Country": "India"
+  },
+  {
+    "Company": "Tap Invest",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.30 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Nishchay Nath",
+    "Country": "India"
+  },
+  {
+    "Company": "AltiusHub",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.25 Mn+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Abiram Vijayakumar; Siddharth Reddy",
+    "Country": "India"
+  },
+  {
+    "Company": "BluJ Aero",
+    "Sector": "N/A",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.25 Mn+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Maruthi Amardeep Sri Vatsavaya; Utham Kumar Dharmapuri",
+    "Country": "India"
+  },
+  {
+    "Company": "DeepMatrix",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.20 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Kaustubh Tripathi; Naresh Soni",
+    "Country": "India"
+  },
+  {
+    "Company": "Moonrider",
+    "Sector": "Clean Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.20 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Anoop Srikantaswamy; Ravi Kulkarni",
+    "Country": "India"
+  },
+  {
+    "Company": "HotelYaari",
+    "Sector": "Fintech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.17 Mn+",
+    "Headquarters": "Noida",
+    "Founders": "Janardan Tiwari",
+    "Country": "India"
+  },
+  {
+    "Company": "Vodex",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.15 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Anshul Shrivastava; Kumar Saurav",
+    "Country": "India"
+  },
+  {
+    "Company": "HouseWare",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.10 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Divyansh Saini; Shubhankar Srivastava",
+    "Country": "United States"
+  },
+  {
+    "Company": "Gushwork",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.10 Mn+",
+    "Headquarters": "Brooklyn",
+    "Founders": "Adithya Venkatesh; Nayrhit Bhattacharya",
+    "Country": "United States"
+  },
+  {
+    "Company": "Slick",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.10 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Archit Nanda; Rachit Bansal",
+    "Country": "India"
+  },
+  {
+    "Company": "Offline",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Utsav Somani",
+    "Country": "India"
+  },
+  {
+    "Company": "Frammer AI",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Suparna Singh; Kawaljit Singh Bedi; Arijit Chatterjee",
+    "Country": "India"
+  },
+  {
+    "Company": "Mistry.Store",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Bhanu Mahajan; Vaibhav V Poddar",
+    "Country": "India"
+  },
+  {
+    "Company": "Swish",
+    "Sector": "Ecommerce",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Aniket Shah; Saran S; Ujjwal Sukheja",
+    "Country": "India"
+  },
+  {
+    "Company": "Dil Foods",
+    "Sector": "Foodtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Arpita Aditi",
+    "Country": "India"
+  },
+  {
+    "Company": "Meolaa",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ishita Sawant",
+    "Country": "India"
+  },
+  {
+    "Company": "Tuco Intelligent",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Aishvarya Murali",
+    "Country": "India"
+  },
+  {
+    "Company": "Koinbasket",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Singapore",
+    "Founders": "Khaleelulla Baig",
+    "Country": "Singapore"
+  },
+  {
+    "Company": "ZEVO",
+    "Sector": "Logistics",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Dhruv Bhatia",
+    "Country": "India"
+  },
+  {
+    "Company": "plutos One",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Rajjat Gulati; Rohit Mahajan",
+    "Country": "India"
+  },
+  {
+    "Company": "Fairdeal Market",
+    "Sector": "Consumer Services",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Prateek Bansal; Yash Bansal",
+    "Country": "India"
+  },
+  {
+    "Company": "Febi.ai",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Amit Jindal; Saurabh Jain; Ashu Goel; Rahul Bansal",
+    "Country": "India"
+  },
+  {
+    "Company": "Culture Circle",
+    "Sector": "Consumer Services",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Devansh Jain Nawal; Ackshay Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "Unipe",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Wilmington",
+    "Founders": "Anupam Acharya",
+    "Country": "United States"
+  },
+  {
+    "Company": "Beyond Appliances",
+    "Sector": "Ecommerce",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Eshwar K Vikas; Rakesh Patil",
+    "Country": "India"
+  },
+  {
+    "Company": "Sentra World",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Harsh Choudhry; Vikas Upadhyay",
+    "Country": "India"
+  },
+  {
+    "Company": "Investmint",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Aakash Goel; Mohit Chitlangia",
+    "Country": "India"
+  },
+  {
+    "Company": "Shaktimaan",
+    "Sector": "Edtech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Vimal Singh Rathore; Aseem Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "QuriousBit",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ramakrishna Reddy Y L; Shubham Joshi",
+    "Country": "India"
+  },
+  {
+    "Company": "Yummy Plate",
+    "Sector": "Foodtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Bala Hariharan",
+    "Country": "India"
+  },
+  {
+    "Company": "Voiz",
+    "Sector": "Edtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Diego Espinosa; Vineet Patil; Yvonne Espinosa",
+    "Country": "India"
+  },
+  {
+    "Company": "Mili",
+    "Sector": "Fintech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Chirag Gandhi; Siddharth Bulia; Vennela Miryala",
+    "Country": "United States"
+  },
+  {
+    "Company": "Oddr",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Saurabh Mehra; Sumit Garg",
+    "Country": "United States"
+  },
+  {
+    "Company": "House of Biryan",
+    "Sector": "Foodtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Mohammed Bhol",
+    "Country": "India"
+  },
+  {
+    "Company": "Kredmint",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "Noida",
+    "Founders": "Vikas Garg; Himanshu Arora; Rahul Nagar",
+    "Country": "India"
+  },
+  {
+    "Company": "Ninecamp",
+    "Sector": "Consumer Services",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$2.00 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Chaitanya Mathur",
+    "Country": "India"
+  },
+  {
+    "Company": "SuperKalam",
+    "Sector": "Edtech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.96 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Aseem Gupta; Vimal Singh Rathore",
+    "Country": "India"
+  },
+  {
+    "Company": "Unikon.ai",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.91 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Aakash Anand; Palash Arneja; Sumit Jha",
+    "Country": "India"
+  },
+  {
+    "Company": "OnePlayCloud",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.80 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Harshit Jain; Abhik Saha",
+    "Country": "India"
+  },
+  {
+    "Company": "Crackle Technologies",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.70 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Jaivir Nagi; Shashank Dudeja",
+    "Country": "India"
+  },
+  {
+    "Company": "Let's Dive",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.70 Mn+",
+    "Headquarters": "San Diego",
+    "Founders": "Nitesh Agrawal; Om Prakash Shanmugam",
+    "Country": "United States"
+  },
+  {
+    "Company": "Just Words",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$1.70 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Neha Mittal",
+    "Country": "United States"
+  },
+  {
+    "Company": "Fixerra",
+    "Sector": "Fintech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.68 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Akshar Shah",
+    "Country": "India"
+  },
+  {
+    "Company": "ZenStatement",
+    "Sector": "Fintech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.62 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Sourabh Nolkha; Ankit Narsaria",
+    "Country": "India"
+  },
+  {
+    "Company": "Zingavita",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.62 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Rohit Anand; Sachin Goel",
+    "Country": "India"
+  },
+  {
+    "Company": "ONWO",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.60 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Bipul Kumar",
+    "Country": "India"
+  },
+  {
+    "Company": "ShoutO",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.60 Mn+",
+    "Headquarters": "Delaware",
+    "Founders": "Maruthy Ramgandhi; Abhishekk Handa; Ayyappan Lakshmanan",
+    "Country": "United States"
+  },
+  {
+    "Company": "Jhana",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.60 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ben Hoffner-Brodsky; Em Mcglone; Hemanth Bharatha Chakravarthy",
+    "Country": "India"
+  },
+  {
+    "Company": "TaxNodes",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.60 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Avinash Shekhar; Karthikeyan NG",
+    "Country": "India"
+  },
+  {
+    "Company": "Valyx",
+    "Sector": "Fintech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.60 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Anirudh Bhargava",
+    "Country": "India"
+  },
+  {
+    "Company": "Fitmint",
+    "Sector": "Health Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.60 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Anurag Meena; Rohit Sharma; Viren Baid",
+    "Country": "India"
+  },
+  {
+    "Company": "Boxs",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.60 Mn+",
+    "Headquarters": "Chennai",
+    "Founders": "Satheesh Ramdass; Vikram Venkatesan",
+    "Country": "India"
+  },
+  {
+    "Company": "Fetcch",
+    "Sector": "Web3",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.55 Mn+",
+    "Headquarters": "Singapore",
+    "Founders": "Hardik Patni; Mandar Dange; Satyam Kulkarni",
+    "Country": "Singapore"
+  },
+  {
+    "Company": "KoinX",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.51 Mn+",
+    "Headquarters": "Cuttack",
+    "Founders": "Punit Agarwal",
+    "Country": "India"
+  },
+  {
+    "Company": "Newmi Care",
+    "Sector": "Health Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Aditi Mittal; Sanchit Agarwal",
+    "Country": "India"
+  },
+  {
+    "Company": "Inkle",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "Lewes",
+    "Founders": "Anand Krishna; Joseph Humfrey",
+    "Country": "United States"
+  },
+  {
+    "Company": "Onmeta",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Bharath T; Krishna Teja Nemani",
+    "Country": "India"
+  },
+  {
+    "Company": "Volt Money",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Lalit Bihani; Ankit Agarwal; Bharat Lamba",
+    "Country": "India"
+  },
+  {
+    "Company": "Mabel",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Milind Sharma",
+    "Country": "India"
+  },
+  {
+    "Company": "MakerDojo",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "San Jose",
+    "Founders": "Ajay Kumar Chintala; Priyank Chodisetti; Vignesh Aigal",
+    "Country": "United States"
+  },
+  {
+    "Company": "PlayVerse",
+    "Sector": "Edtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "Parel",
+    "Founders": "Jaineel Aga",
+    "Country": "India"
+  },
+  {
+    "Company": "Ayna",
+    "Sector": "AI",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Aastha Rajpal; Yash Bansal",
+    "Country": "India"
+  },
+  {
+    "Company": "Bidso",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Aditya Krishnakumar; Ashwin Jain; Rahul Agarwal; Vivek Singhal",
+    "Country": "India"
+  },
+  {
+    "Company": "WorkHack",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Akshat Tyagi",
+    "Country": "United States"
+  },
+  {
+    "Company": "OptIQ",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "Palo Alto",
+    "Founders": "Keshav Murthy",
+    "Country": "United States"
+  },
+  {
+    "Company": "AuditCue",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.50 Mn+",
+    "Headquarters": "Chennai",
+    "Founders": "Gaurav Kulkarni; Naren J",
+    "Country": "India"
+  },
+  {
+    "Company": "SkinInspired",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.47 Mn+",
+    "Headquarters": "Udaipur",
+    "Founders": "Piyush Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "Pikndel",
+    "Sector": "Logistics",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.45 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Siddharth Batra; Teja Valdamani; Tullika Batra",
+    "Country": "India"
+  },
+  {
+    "Company": "The EleFant",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.44 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Sourabh Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "Luru",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.40 Mn+",
+    "Headquarters": "Wilmington",
+    "Founders": "Karthik K.",
+    "Country": "United States"
+  },
+  {
+    "Company": "Pulse",
+    "Sector": "Deeptech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$1.40 Mn+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Sid Manchkanti; Ritvik Pandey",
+    "Country": "India"
+  },
+  {
+    "Company": "ProFinTech Technologies",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.40 Mn+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Ravi Tanniru; Sandeep Kunkunuru",
+    "Country": "India"
+  },
+  {
+    "Company": "Soptle",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.30 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Pravas Chandragiri",
+    "Country": "United States"
+  },
+  {
+    "Company": "Mitra",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.30 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Abhishek Kaushik",
+    "Country": "India"
+  },
+  {
+    "Company": "Curelo",
+    "Sector": "Health Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.30 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Arpit Jayswal",
+    "Country": "India"
+  },
+  {
+    "Company": "Adya",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.26 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Shayak Mazumder; Angad Ahluwalia; Archana Shah",
+    "Country": "India"
+  },
+  {
+    "Company": "Super4",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.26 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Ankur Mudgill; Parit Bansal; Rohit Bansal; Shobhit Bansal",
+    "Country": "India"
+  },
+  {
+    "Company": "LeRemitt",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.25 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Sheetal Jain; Hari Ambati; Mahesh Kumar Barate",
+    "Country": "India"
+  },
+  {
+    "Company": "Alwrite",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.20 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Aditya Dadia",
+    "Country": "India"
+  },
+  {
+    "Company": "HealthCRED",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.20 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Arpit Jangir; Shrey Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "First Coffee",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.20 Mn+",
+    "Headquarters": "New Delhi",
+    "Founders": "Chandini Purnesha; Shiv Dhawan; Sohrab Sitaram",
+    "Country": "India"
+  },
+  {
+    "Company": "Hogr",
+    "Sector": "Foodtech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.20 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Jugul Thachery; Ankit Nagori",
+    "Country": "India"
+  },
+  {
+    "Company": "BharatNXT",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.20 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Akshat Birla; Aljo Joseph",
+    "Country": "India"
+  },
+  {
+    "Company": "Zivy",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.20 Mn+",
+    "Headquarters": "Lewes",
+    "Founders": "Prashanth Yv; Vivek Karna",
+    "Country": "United States"
+  },
+  {
+    "Company": "Curie Money",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.20 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Arindam Ghosh; Tushar Choudhary",
+    "Country": "India"
+  },
+  {
+    "Company": "The 1% Club",
+    "Sector": "Edtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.20 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Sharan Hegde; Raghav Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "TreZix",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.20 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Haresh Calcuttawala; Shailesh Sapale; Sunil Kharbanda",
+    "Country": "India"
+  },
+  {
+    "Company": "ICON",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.20 Mn+",
+    "Headquarters": "Ahmedabad",
+    "Founders": "Aakash Mehta; Fazal Abbas Lakhani",
+    "Country": "India"
+  },
+  {
+    "Company": "GetSupp",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.19 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Arpit Gupta; Deven Vyas",
+    "Country": "India"
+  },
+  {
+    "Company": "Happi Planet",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.17 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Mayank Gupta; Nimeet Dhokai",
+    "Country": "India"
+  },
+  {
+    "Company": "FroGo",
+    "Sector": "Logistics",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.15 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Mira Jhala",
+    "Country": "India"
+  },
+  {
+    "Company": "vidyo.ai",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.10 Mn+",
+    "Headquarters": "New York",
+    "Founders": "Vedant Maheshwari; Kushagra Pandya",
+    "Country": "United States"
+  },
+  {
+    "Company": "TOONSUTRA",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.10 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Shared Devarajan",
+    "Country": "India"
+  },
+  {
+    "Company": "Pepsales",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.10 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Ajay Singh; Abhinandan Sahgal",
+    "Country": "United States"
+  },
+  {
+    "Company": "Karban Envirotech",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.07 Mn+",
+    "Headquarters": "Jaipur",
+    "Founders": "Karan Bansal; Tanya Goyal",
+    "Country": "India"
+  },
+  {
+    "Company": "OnFinance Ai",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.05 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Anuj Srivastava; Priyesh Srivastava",
+    "Country": "India"
+  },
+  {
+    "Company": "Ikin Global",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Kochi",
+    "Founders": "Ani Abraham Joy; Arjun Sarath; Biniyas Valiyaveettil; Midhun Skaria; Nibu Alias; Sabarish Prakash",
+    "Country": "India"
+  },
+  {
+    "Company": "Phot.ai",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Akshit Raja; Venus Dhuria",
+    "Country": "India"
+  },
+  {
+    "Company": "GetCurious",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Lewes",
+    "Founders": "Anshul Divakar; Nitin Matiyali",
+    "Country": "United States"
+  },
+  {
+    "Company": "Stimuler",
+    "Sector": "Edtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Akshay Akash",
+    "Country": "India"
+  },
+  {
+    "Company": "RePut.ai",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Anuj Bishnoi; Rohit Mahatma; Amit B",
+    "Country": "India"
+  },
+  {
+    "Company": "SuprSend",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "San Francisco",
+    "Founders": "Gaurav Verma; Nikita Navral",
+    "Country": "United States"
+  },
+  {
+    "Company": "Cookr",
+    "Sector": "Foodtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Chennai",
+    "Founders": "Nirmalkumar Muthu; Praba Santanakrishnan; Saravanakumar(SK) Kandasamy",
+    "Country": "India"
+  },
+  {
+    "Company": "HyugaLife",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Anvi Shah; Neehar Modi; Sachin Parikh",
+    "Country": "India"
+  },
+  {
+    "Company": "Adster Technologies Pvt. Ltd",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Highland",
+    "Founders": "Girish Vishwanath C; Ketan Chandak; Ranganathan Srinivasan",
+    "Country": "N/A"
+  },
+  {
+    "Company": "Drivio",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Saurabh Tripathi; Ankur Bhardwaj",
+    "Country": "India"
+  },
+  {
+    "Company": "Oncare",
+    "Sector": "Health Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Deepak Kumar; Amar Sneh",
+    "Country": "India"
+  },
+  {
+    "Company": "Fitsol",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Gurugram",
+    "Founders": "Anand Pathak",
+    "Country": "India"
+  },
+  {
+    "Company": "Narrato",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Lewes",
+    "Founders": "Sophia Solanki",
+    "Country": "United States"
+  },
+  {
+    "Company": "Vobble",
+    "Sector": "Edtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Neha Sharma; Sowmya Jagannath",
+    "Country": "India"
+  },
+  {
+    "Company": "TableSprint",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Chirag Jadhav; Abhijeet Kumar",
+    "Country": "India"
+  },
+  {
+    "Company": "Datazip",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Sandeep Dev Devarapalli; Rohan Khameshra; Shubham Baldava",
+    "Country": "India"
+  },
+  {
+    "Company": "Segmind",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Santa Clara",
+    "Founders": "Harish Prabhala; Rohit Ramesh; Sai Koushik",
+    "Country": "United States"
+  },
+  {
+    "Company": "True Diamond",
+    "Sector": "Consumer Services",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Mumbai",
+    "Founders": "Darayus Mehta; Parin Shah",
+    "Country": "India"
+  },
+  {
+    "Company": "HaiVE",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$1.00 Mn+",
+    "Headquarters": "Singapore",
+    "Founders": "Deepika Loganathan; Aravinth Ramesh",
+    "Country": "Singapore"
+  },
+  {
+    "Company": "Pintel.AI",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$991.28K+",
+    "Headquarters": "Noida",
+    "Founders": "Nirmal Vatsyayan",
+    "Country": "India"
+  },
+  {
+    "Company": "LLUMO AI",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$954.11K+",
+    "Headquarters": "Noida",
+    "Founders": "Akshat Anand; Shivam Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "Terractive",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$943.29K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Raena Ambani; Rahee Choksi",
+    "Country": "India"
+  },
+  {
+    "Company": "WorqHat",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$907.27K+",
+    "Headquarters": "Pune",
+    "Founders": "Sagnik Ghosh; Susmita Ghosh",
+    "Country": "India"
+  },
+  {
+    "Company": "Zintlr",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$894.66K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ujwal K; Pranay Khariwal; Ravi Jain",
+    "Country": "India"
+  },
+  {
+    "Company": "HiWi",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$872.21K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Geeta Chauhan",
+    "Country": "India"
+  },
+  {
+    "Company": "Leumas",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$850.59K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Nitesh Kumar; Subhajit Biswas",
+    "Country": "India"
+  },
+  {
+    "Company": "Hypergro",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$842.22K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Rituraj Biswas; Abhijeet Kumar; Arijit Mukhopadhyay; Neha Soman",
+    "Country": "India"
+  },
+  {
+    "Company": "Crest",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$800.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Rahul Vishwakarma; Akhil Kumar; Yogesh Byahatti; Abhishek Surendran",
+    "Country": "India"
+  },
+  {
+    "Company": "Done Deal",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$800.00K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Aneesh Sivakumar; Ankur Jain; Rohit Raj",
+    "Country": "India"
+  },
+  {
+    "Company": "Klaar",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$800.00K+",
+    "Headquarters": "Wilmington",
+    "Founders": "Atri Roy; Sharthok Chakraborty",
+    "Country": "United States"
+  },
+  {
+    "Company": "Kreo",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$784.16K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ishan Sukul; Niraj Chitnis",
+    "Country": "India"
+  },
+  {
+    "Company": "Induz",
+    "Sector": "Deeptech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$780.00K+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Sreerama Mohan Gadam; Tirumalesh Chalamarla",
+    "Country": "India"
+  },
+  {
+    "Company": "Cautio",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$779.29K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ankit Acharya; Pranjal Nadhani",
+    "Country": "India"
+  },
+  {
+    "Company": "Varco",
+    "Sector": "Health Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$778.24K+",
+    "Headquarters": "New Delhi",
+    "Founders": "Anondeep Ganguly",
+    "Country": "India"
+  },
+  {
+    "Company": "30 Sundays",
+    "Sector": "Travel Tech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$770.00K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Anuj Punjani; Jaikishan Dulani; Kshitij Chaudhary; Sumit Mishra",
+    "Country": "India"
+  },
+  {
+    "Company": "D2C Ecommerce India",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$752.92K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Manish Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "Jodaro",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$750.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Rajiv Patki",
+    "Country": "India"
+  },
+  {
+    "Company": "VoiceClub",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$700.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ayush Singh; Azhar Rabbani; Muhammad Wasim Ali; Paraag Mishra",
+    "Country": "India"
+  },
+  {
+    "Company": "LifeChart",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$700.00K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Sanjay Jadoun; Mansi Sharma; Sandeep K",
+    "Country": "India"
+  },
+  {
+    "Company": "Felicity Games",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$700.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Anurag Choudhary",
+    "Country": "India"
+  },
+  {
+    "Company": "Bonatra",
+    "Sector": "Health Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$672.96K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Amit Acharya; Kevin Jerald Francis; Rahul Kishore Singh; Ramanpreet Singh Arora; Sanjay Kumar; Sanjiv Bipin Sharma",
+    "Country": "India"
+  },
+  {
+    "Company": "Salty",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$650.69K+",
+    "Headquarters": "New Delhi",
+    "Founders": "Kanishka Garg; Sonaal Goel; Twishaa Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "Fanztar",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$645.63K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Himanshu Garg; Sahil Singla",
+    "Country": "India"
+  },
+  {
+    "Company": "Holiday Tribe",
+    "Sector": "Travel Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$642.34K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Anshu Sharma; Chirag Goyal",
+    "Country": "India"
+  },
+  {
+    "Company": "Quash",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$635.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Prakhar Shakya",
+    "Country": "India"
+  },
+  {
+    "Company": "Melooha",
+    "Sector": "Consumer Services",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$635.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Vikram Labhe",
+    "Country": "India"
+  },
+  {
+    "Company": "Medial",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$620.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Harsh Dwivedi; Niket Raj Dwivedi",
+    "Country": "India"
+  },
+  {
+    "Company": "Naomi Patisserie & Bakehouse",
+    "Sector": "Consumer Services",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$605.05K+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Nikitha Umesh; Akash Stanley",
+    "Country": "India"
+  },
+  {
+    "Company": "DevDynamics",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$600.00K+",
+    "Headquarters": "Wilmington",
+    "Founders": "Pruthviraj Haral; Rishi Saraf",
+    "Country": "United States"
+  },
+  {
+    "Company": "Teleport",
+    "Sector": "Travel Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$600.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Nikita Dresswala",
+    "Country": "India"
+  },
+  {
+    "Company": "Mantys",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$600.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Kriti Arora; Mudit Dangi",
+    "Country": "India"
+  },
+  {
+    "Company": "Revrag",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$600.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ashutosh Prakash Singh; Neeraj Gupta; Pankaj Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "Transitry",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$600.00K+",
+    "Headquarters": "Singapore",
+    "Founders": "Navarun Atraya; Vishan Ravi Tejaas",
+    "Country": "Singapore"
+  },
+  {
+    "Company": "Sharang Shakti",
+    "Sector": "Deeptech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$597.24K+",
+    "Headquarters": "Noida",
+    "Founders": "Chirag Singla; Jitendra Singh; Karan Goyal; Rishabh Choudhary",
+    "Country": "India"
+  },
+  {
+    "Company": "EaseMyAi",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$579.39K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Gagandeeip Singh Randhawa; Yaman Bhardwaj",
+    "Country": "India"
+  },
+  {
+    "Company": "ALT CARBON",
+    "Sector": "Clean Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$550.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Shrey Agarwal",
+    "Country": "India"
+  },
+  {
+    "Company": "Helium",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$541.43K+",
+    "Headquarters": "New Delhi",
+    "Founders": "Sidharth Sahni",
+    "Country": "India"
+  },
+  {
+    "Company": "Magma",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$515.00K+",
+    "Headquarters": "Ahmedabad",
+    "Founders": "Neal Thakker",
+    "Country": "India"
+  },
+  {
+    "Company": "Supersquad",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$500.13K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Akash Kadyan; Anushrut Khare",
+    "Country": "India"
+  },
+  {
+    "Company": "Bluwheelz",
+    "Sector": "Logistics",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$500.00K+",
+    "Headquarters": "New Delhi",
+    "Founders": "Chanpreet Singh Sethi; Jaspreet Dhingra; Sanjiv Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "Altitude Club",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$500.00K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Krishna Maggo",
+    "Country": "India"
+  },
+  {
+    "Company": "InsurancePadosi",
+    "Sector": "Fintech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$500.00K+",
+    "Headquarters": "Jodhpur",
+    "Founders": "Vaibhav Kathju; Gaurav Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "Biva",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$500.00K+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Abhiram Kolli; Akhila Ganti",
+    "Country": "India"
+  },
+  {
+    "Company": "Doctor Droid",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$500.00K+",
+    "Headquarters": "San Francisco",
+    "Founders": "Dipesh Mittal; Siddarth Jain",
+    "Country": "United States"
+  },
+  {
+    "Company": "India Index",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$500.00K+",
+    "Headquarters": "Washington",
+    "Founders": "Samir N Kapadia",
+    "Country": "United States"
+  },
+  {
+    "Company": "Simple Viral Games",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$485.32K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Rahul KR; Sourav Badami",
+    "Country": "India"
+  },
+  {
+    "Company": "StampThePassport",
+    "Sector": "Travel Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$481.76K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Vijay Kesavan",
+    "Country": "India"
+  },
+  {
+    "Company": "Aurassure",
+    "Sector": "Advanced Hardware & Technology",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$481.42K+",
+    "Headquarters": "Bhubaneswar",
+    "Founders": "Akanksha Priyadarshini; Amiya Kumar Samantaray; Ashutosha Sarangi; Asish Sahoo",
+    "Country": "India"
+  },
+  {
+    "Company": "Onlygood",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$476.47K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Rajeev Sinha",
+    "Country": "India"
+  },
+  {
+    "Company": "Breathe ESG",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$475.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Karantaj Singh",
+    "Country": "India"
+  },
+  {
+    "Company": "NumberOne Academy",
+    "Sector": "Edtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$469.81K+",
+    "Headquarters": "Cochin",
+    "Founders": "Lajesh Kolath",
+    "Country": "India"
+  },
+  {
+    "Company": "Equip.co",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$400.52K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Jayanth Neelakanta",
+    "Country": "India"
+  },
+  {
+    "Company": "Wundrsight",
+    "Sector": "Health Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$400.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Nishtha Budhiraja; Raunak Swarnkar",
+    "Country": "India"
+  },
+  {
+    "Company": "KathaVersse Media Network",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$400.00K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Aakash Kumar; Kshitiz Sudhakar",
+    "Country": "India"
+  },
+  {
+    "Company": "Mera Cashier",
+    "Sector": "Fintech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$400.00K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Akhilesh Kumar; Gaurav Tomar; Sucharita Reddy; Suneel Kumar",
+    "Country": "India"
+  },
+  {
+    "Company": "Baanhem Ventures",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$389.11K+",
+    "Headquarters": "Chennai",
+    "Founders": "Hemachandran L; Balachandar R",
+    "Country": "India"
+  },
+  {
+    "Company": "Presear Softwares PVT LTD",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$386.10K+",
+    "Headquarters": "Bhubaneswar",
+    "Founders": "Abhijit Tripathy",
+    "Country": "India"
+  },
+  {
+    "Company": "Covrzy",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$386.05K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ankit Kamra; Veera Thota",
+    "Country": "India"
+  },
+  {
+    "Company": "Bversity",
+    "Sector": "Edtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$381.00K+",
+    "Headquarters": "Chennai",
+    "Founders": "Sudharsan Varatharajan; Godwin Immanuel",
+    "Country": "India"
+  },
+  {
+    "Company": "ofScale",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$375.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Suvigna Shour; Tarun Kedia",
+    "Country": "India"
+  },
+  {
+    "Company": "Upsurge",
+    "Sector": "Edtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$370.48K+",
+    "Headquarters": "New Delhi",
+    "Founders": "Karan Baweja",
+    "Country": "India"
+  },
+  {
+    "Company": "Jellybean",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$350.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Bhavesh Upadhyay; Ganesha Gampa; Naren Krishna Madhurakavi",
+    "Country": "India"
+  },
+  {
+    "Company": "App Plus",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$348.98K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Raj Parakh; Veer Mishra",
+    "Country": "India"
+  },
+  {
+    "Company": "Doss Games",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$331.60K+",
+    "Headquarters": "Singapore",
+    "Founders": "Mukul Sharma; Tanmay Joshi",
+    "Country": "Singapore"
+  },
+  {
+    "Company": "Ellipsol",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$300.89K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Samarth Jain; Kaustubh Tyagi",
+    "Country": "India"
+  },
+  {
+    "Company": "Kikibix",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$300.00K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Kaur Ridhi",
+    "Country": "India"
+  },
+  {
+    "Company": "Alchemyst AI",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$300.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Uttaran Nayak; Anuran Roy",
+    "Country": "India"
+  },
+  {
+    "Company": "Slikk",
+    "Sector": "Ecommerce",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$300.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Akshay Gulati; Bipin Kumar Singh; Om Prakash Swami",
+    "Country": "India"
+  },
+  {
+    "Company": "Conker World",
+    "Sector": "Edtech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$300.00K+",
+    "Headquarters": "Jaipur",
+    "Founders": "Sachin Upadhyay",
+    "Country": "India"
+  },
+  {
+    "Company": "Offside",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$299.85K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Shivam Jha; Rishav",
+    "Country": "India"
+  },
+  {
+    "Company": "Hexo",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$270.00K+",
+    "Headquarters": "Santa Clara",
+    "Founders": "Kunal Bhatia; Vignesh Baskaran",
+    "Country": "United States"
+  },
+  {
+    "Company": "Rapid",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$264.58K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Sanket Naik; Haseeb Budhani",
+    "Country": "India"
+  },
+  {
+    "Company": "Unwind Mind",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$255.88K+",
+    "Headquarters": "Jodhpur",
+    "Founders": "Surendra S RajPurohit",
+    "Country": "India"
+  },
+  {
+    "Company": "DecorTwist",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$250.00K+",
+    "Headquarters": "Noida",
+    "Founders": "Anupam Rajey; Nidhi Bajpai",
+    "Country": "India"
+  },
+  {
+    "Company": "WishNew Wellness",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$250.00K+",
+    "Headquarters": "New Delhi",
+    "Founders": "Karan Khurana; Pranshu Singh",
+    "Country": "India"
+  },
+  {
+    "Company": "PedalStart",
+    "Sector": "N/A",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$250.00K+",
+    "Headquarters": "Gurugram",
+    "Founders": "N/A",
+    "Country": "India"
+  },
+  {
+    "Company": "All Is Well",
+    "Sector": "Health Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$249.80K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Vaibhav Tandon; Manish Gupta; Aparna Popat",
+    "Country": "India"
+  },
+  {
+    "Company": "NRI HelpLine",
+    "Sector": "Consumer Services",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$244.60K+",
+    "Headquarters": "New Delhi",
+    "Founders": "Prasana Rao",
+    "Country": "India"
+  },
+  {
+    "Company": "NoCap Meta",
+    "Sector": "Consumer Services",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$242.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Aahan Dogra; Shekhar Chatterjee",
+    "Country": "India"
+  },
+  {
+    "Company": "AuraML",
+    "Sector": "AI",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$230.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ayush Sharma; Arjun Gupta",
+    "Country": "India"
+  },
+  {
+    "Company": "ProjectX.Cloud",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$204.28K+",
+    "Headquarters": "Madanpur",
+    "Founders": "Rounak Adhikary",
+    "Country": "India"
+  },
+  {
+    "Company": "ApnaMart",
+    "Sector": "Consumer Services",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$201.30K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Abhishek Singh; Chetan Garg",
+    "Country": "India"
+  },
+  {
+    "Company": "Better Beauty",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$200.00K+",
+    "Headquarters": "New Delhi",
+    "Founders": "Anita Hassanandani Reddy; Naina Ruhail; Ritambra Das; Kunal Verma",
+    "Country": "India"
+  },
+  {
+    "Company": "FLYX",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$200.00K+",
+    "Headquarters": "New York",
+    "Founders": "Preet Raj; Shashank Singh",
+    "Country": "United States"
+  },
+  {
+    "Company": "KiranaPro",
+    "Sector": "Consumer Services",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$188.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Deepak Ravindran",
+    "Country": "India"
+  },
+  {
+    "Company": "TapOnn",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$181.00K+",
+    "Headquarters": "Indore",
+    "Founders": "Aman Jolly; Dhruv Jolly; Aman Jolly; Dhruv Jolly",
+    "Country": "India"
+  },
+  {
+    "Company": "MyPickup",
+    "Sector": "Travel Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$179.59K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Abhijeet Jagtap",
+    "Country": "India"
+  },
+  {
+    "Company": "OnArrival Travel",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$174.26K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Ankit Sawant; Pawan Shetty",
+    "Country": "India"
+  },
+  {
+    "Company": "OpiGo",
+    "Sector": "Fintech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$168.22K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Devansh Mehta",
+    "Country": "India"
+  },
+  {
+    "Company": "Formi",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$165.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Anirudh Arun; Aryamann Ningombam; Dhanush S Reddy; Harshavardhan KR; Venkat GH",
+    "Country": "India"
+  },
+  {
+    "Company": "Xylem AI",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$160.00K+",
+    "Headquarters": "San Francisco",
+    "Founders": "Arko Chattopadhyay; Enrique Ferrao; Pranav Reddy",
+    "Country": "United States"
+  },
+  {
+    "Company": "Ribin",
+    "Sector": "Consumer Services",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$160.00K+",
+    "Headquarters": "Pune",
+    "Founders": "Om Kannamwar; Abhishek Pai Angle; Ashwin Singh Chauhan",
+    "Country": "India"
+  },
+  {
+    "Company": "Curlin",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$160.00K+",
+    "Headquarters": "Ahmedabad",
+    "Founders": "Sumit Curl Karranji",
+    "Country": "India"
+  },
+  {
+    "Company": "Epicure Robotics",
+    "Sector": "Advanced Hardware & Technology",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$160.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Aditya Mehta; Gokulraj K S",
+    "Country": "India"
+  },
+  {
+    "Company": "Airbook",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$160.00K+",
+    "Headquarters": "San Francisco",
+    "Founders": "Hoshang Mehta; Vishal Bajaj",
+    "Country": "United States"
+  },
+  {
+    "Company": "Spicta",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$160.00K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Jigar Vachharajani; Kavita Yajnik; Jigar Vachharajani; Kavita Yajnik",
+    "Country": "India"
+  },
+  {
+    "Company": "ReThought",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$152.47K+",
+    "Headquarters": "New Delhi",
+    "Founders": "Adrija Halder; Rohan Tuteja",
+    "Country": "India"
+  },
+  {
+    "Company": "TRIKL",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$150.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Raushan Sharma; Shalu Panwar",
+    "Country": "India"
+  },
+  {
+    "Company": "JoySpoon",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$149.85K+",
+    "Headquarters": "Ahmedabad",
+    "Founders": "Vaishali Mehta; Yash Mehta",
+    "Country": "India"
+  },
+  {
+    "Company": "Orbit Wallet",
+    "Sector": "Fintech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$149.77K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Harshvardhan Zaveri; Aman Bisht; Shikha Chouksey",
+    "Country": "India"
+  },
+  {
+    "Company": "Pettle",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$149.77K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Sagar Gwalani; Yash Kumar",
+    "Country": "India"
+  },
+  {
+    "Company": "Healspan",
+    "Sector": "Health Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$144.29K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Abhishek Sinha; Sabarinath U",
+    "Country": "India"
+  },
+  {
+    "Company": "Medront",
+    "Sector": "Consumer Services",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$126.40K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Saurav Suman",
+    "Country": "India"
+  },
+  {
+    "Company": "Homified",
+    "Sector": "Ecommerce",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$119.86K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Karamdeeep Singh Sethi",
+    "Country": "India"
+  },
+  {
+    "Company": "Viraa Care",
+    "Sector": "Health Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$108.00K+",
+    "Headquarters": "Chandigarh",
+    "Founders": "Sonal Babbar Bhardwaj; Mayank Bhardwaj",
+    "Country": "India"
+  },
+  {
+    "Company": "Hoop",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$100.00K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Twinkle Uppal; Saharash Agarwal",
+    "Country": "India"
+  },
+  {
+    "Company": "Buk Technology",
+    "Sector": "Web3",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$100.00K+",
+    "Headquarters": "Dover",
+    "Founders": "Arul Prakash; Nikhil Kulkarni",
+    "Country": "United States"
+  },
+  {
+    "Company": "Serri",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$100.00K+",
+    "Headquarters": "San Francisco",
+    "Founders": "Mohd Wasil; Saad Jamal",
+    "Country": "United States"
+  },
+  {
+    "Company": "MetaShop",
+    "Sector": "AI",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$100.00K+",
+    "Headquarters": "Pune",
+    "Founders": "Mukul Ingle; Sophiya Jagannathan",
+    "Country": "India"
+  },
+  {
+    "Company": "Callmatic",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$99.87K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Mohd Amir; Shivank Agrawal",
+    "Country": "India"
+  },
+  {
+    "Company": "EcoRatings",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$99.86K+",
+    "Headquarters": "New York",
+    "Founders": "Aditi Balbir; Aqeel Ahmed; Ramesh Premkumar",
+    "Country": "United States"
+  },
+  {
+    "Company": "Newtral.io",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$78.07K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Avi Chudasama",
+    "Country": "India"
+  },
+  {
+    "Company": "Flent",
+    "Sector": "Real Estate Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$77.75K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Mayank Lalwani; Rishabh Agnihotri; Shail Daswani",
+    "Country": "India"
+  },
+  {
+    "Company": "Agrima Infotech",
+    "Sector": "Media & Entertainment",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$50.00K+",
+    "Headquarters": "Mckinney",
+    "Founders": "Anoop Balakrishnan; Nikhil Dharman",
+    "Country": "United States"
+  },
+  {
+    "Company": "Budy",
+    "Sector": "Deeptech",
+    "Founded Date": 2024,
+    "Amount Raised (USD)": "$49.97K+",
+    "Headquarters": "Palo Alto",
+    "Founders": "Samay Kohli",
+    "Country": "United States"
+  },
+  {
+    "Company": "RaptorX",
+    "Sector": "Enterprise Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$47.16K+",
+    "Headquarters": "Hyderabad",
+    "Founders": "Pratyusha Vemuri",
+    "Country": "India"
+  },
+  {
+    "Company": "Rize Bar",
+    "Sector": "Health Tech",
+    "Founded Date": 2023,
+    "Amount Raised (USD)": "$36.12K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Dhruv Verma; Sahil Manral",
+    "Country": "India"
+  },
+  {
+    "Company": "Urban Sphere",
+    "Sector": "Clean Tech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$36.00K+",
+    "Headquarters": "Bengaluru",
+    "Founders": "Karthik Athreya; Veluru Nagarjuna; Karthik Athreya; Veluru Nagarjuna",
+    "Country": "India"
+  },
+  {
+    "Company": "Happie Curves",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$24.01K+",
+    "Headquarters": "Mumbai",
+    "Founders": "Sonal Somani",
+    "Country": "India"
+  },
+  {
+    "Company": "EasyKrishi",
+    "Sector": "Agritech",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$23.19K+",
+    "Headquarters": "Singapore",
+    "Founders": "Prabhav Garudadhwajan",
+    "Country": "Singapore"
+  },
+  {
+    "Company": "Faaya",
+    "Sector": "Ecommerce",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$16.60K+",
+    "Headquarters": "New Delhi",
+    "Founders": "Aniket Dey; Mayank Lodha; Mridang Lodha",
+    "Country": "India"
+  },
+  {
+    "Company": "Debound",
+    "Sector": "Enterprise Services",
+    "Founded Date": 2022,
+    "Amount Raised (USD)": "$3.67K+",
+    "Headquarters": "Gurugram",
+    "Founders": "Arshdeep Taneja; Avyay Gupta; Komal Patel; Smayan Gupta",
+    "Country": "India"
+  }
+]
+
